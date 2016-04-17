@@ -1,0 +1,5 @@
+C:\Source Code\ScottsService\ScottsService\bin\Debug\ScottsService.dll.config
+C:\Source Code\ScottsService\ScottsService\bin\Debug\ScottsService.dll
+C:\Source Code\ScottsService\ScottsService\bin\Debug\ScottsService.pdb
+C:\Source Code\ScottsService\ScottsService\obj\Debug\ScottsService.dll
+C:\Source Code\ScottsService\ScottsService\obj\Debug\ScottsService.pdb

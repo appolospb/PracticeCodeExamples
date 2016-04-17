@@ -1,0 +1,8 @@
+C:\Source Code\ScottsService\ScottsServiceHost\bin\Debug\ScottsServiceHost.exe
+C:\Source Code\ScottsService\ScottsServiceHost\bin\Debug\ScottsServiceHost.exe.config
+C:\Source Code\ScottsService\ScottsServiceHost\bin\Debug\ScottsService.dll
+C:\Source Code\ScottsService\ScottsServiceHost\bin\Debug\ScottsService.pdb
+C:\Source Code\ScottsService\ScottsServiceHost\obj\Debug\ScottsServiceHost.csprojResolveAssemblyReference.cache
+C:\Source Code\ScottsService\ScottsServiceHost\obj\Debug\ScottsServiceHost.exe
+C:\Source Code\ScottsService\ScottsServiceHost\obj\Debug\ScottsServiceHost.pdb
+C:\Source Code\ScottsService\ScottsServiceHost\bin\Debug\ScottsServiceHost.pdb
