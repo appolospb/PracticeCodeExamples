@@ -6,3 +6,11 @@ C:\Source Code\ScottsService\ScottsServiceHost\obj\Debug\ScottsServiceHost.cspro
 C:\Source Code\ScottsService\ScottsServiceHost\obj\Debug\ScottsServiceHost.exe
 C:\Source Code\ScottsService\ScottsServiceHost\obj\Debug\ScottsServiceHost.pdb
 C:\Source Code\ScottsService\ScottsServiceHost\bin\Debug\ScottsServiceHost.pdb
+F:\Github\PracticeCodeExamples\WCF\ScottsService\ScottsServiceHost\bin\Debug\ScottsServiceHost.exe.config
+F:\Github\PracticeCodeExamples\WCF\ScottsService\ScottsServiceHost\obj\Debug\ScottsServiceHost.exe
+F:\Github\PracticeCodeExamples\WCF\ScottsService\ScottsServiceHost\obj\Debug\ScottsServiceHost.pdb
+F:\Github\PracticeCodeExamples\WCF\ScottsService\ScottsServiceHost\bin\Debug\ScottsServiceHost.exe
+F:\Github\PracticeCodeExamples\WCF\ScottsService\ScottsServiceHost\bin\Debug\ScottsServiceHost.pdb
+F:\Github\PracticeCodeExamples\WCF\ScottsService\ScottsServiceHost\bin\Debug\ScottsService.dll
+F:\Github\PracticeCodeExamples\WCF\ScottsService\ScottsServiceHost\bin\Debug\ScottsService.pdb
+F:\Github\PracticeCodeExamples\WCF\ScottsService\ScottsServiceHost\obj\Debug\ScottsServiceHost.csprojResolveAssemblyReference.cache

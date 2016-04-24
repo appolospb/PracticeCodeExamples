@@ -3,3 +3,9 @@ C:\Source Code\ScottsService\ScottsService\bin\Debug\ScottsService.dll
 C:\Source Code\ScottsService\ScottsService\bin\Debug\ScottsService.pdb
 C:\Source Code\ScottsService\ScottsService\obj\Debug\ScottsService.dll
 C:\Source Code\ScottsService\ScottsService\obj\Debug\ScottsService.pdb
+F:\Github\PracticeCodeExamples\WCF\ScottsService\ScottsService\bin\Debug\ScottsService.dll.config
+F:\Github\PracticeCodeExamples\WCF\ScottsService\ScottsService\bin\Debug\ScottsService.dll
+F:\Github\PracticeCodeExamples\WCF\ScottsService\ScottsService\bin\Debug\ScottsService.pdb
+F:\Github\PracticeCodeExamples\WCF\ScottsService\ScottsService\obj\Debug\ScottsService.csprojResolveAssemblyReference.cache
+F:\Github\PracticeCodeExamples\WCF\ScottsService\ScottsService\obj\Debug\ScottsService.dll
+F:\Github\PracticeCodeExamples\WCF\ScottsService\ScottsService\obj\Debug\ScottsService.pdb
