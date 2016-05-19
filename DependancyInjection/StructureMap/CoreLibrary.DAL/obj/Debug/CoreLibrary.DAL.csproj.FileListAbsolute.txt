@@ -1,0 +1,7 @@
+F:\Github\PracticeCodeExamples\DependancyInjection\StructureMap\CoreLibrary.DAL\bin\Debug\CoreLibrary.DAL.dll
+F:\Github\PracticeCodeExamples\DependancyInjection\StructureMap\CoreLibrary.DAL\bin\Debug\CoreLibrary.DAL.pdb
+F:\Github\PracticeCodeExamples\DependancyInjection\StructureMap\CoreLibrary.DAL\bin\Debug\CoreLibrary.Common.dll
+F:\Github\PracticeCodeExamples\DependancyInjection\StructureMap\CoreLibrary.DAL\bin\Debug\CoreLibrary.Common.pdb
+F:\Github\PracticeCodeExamples\DependancyInjection\StructureMap\CoreLibrary.DAL\obj\Debug\CoreLibrary.DAL.csprojResolveAssemblyReference.cache
+F:\Github\PracticeCodeExamples\DependancyInjection\StructureMap\CoreLibrary.DAL\obj\Debug\CoreLibrary.DAL.dll
+F:\Github\PracticeCodeExamples\DependancyInjection\StructureMap\CoreLibrary.DAL\obj\Debug\CoreLibrary.DAL.pdb

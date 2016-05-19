@@ -1,0 +1,4 @@
+F:\Github\PracticeCodeExamples\DependancyInjection\StructureMap\CoreLibrary.Common\bin\Debug\CoreLibrary.Common.dll
+F:\Github\PracticeCodeExamples\DependancyInjection\StructureMap\CoreLibrary.Common\bin\Debug\CoreLibrary.Common.pdb
+F:\Github\PracticeCodeExamples\DependancyInjection\StructureMap\CoreLibrary.Common\obj\Debug\CoreLibrary.Common.dll
+F:\Github\PracticeCodeExamples\DependancyInjection\StructureMap\CoreLibrary.Common\obj\Debug\CoreLibrary.Common.pdb

@@ -1,0 +1,14 @@
+F:\Github\PracticeCodeExamples\DependancyInjection\StructureMap\CoreLibrary\bin\Debug\CoreLibrary.dll
+F:\Github\PracticeCodeExamples\DependancyInjection\StructureMap\CoreLibrary\bin\Debug\CoreLibrary.pdb
+F:\Github\PracticeCodeExamples\DependancyInjection\StructureMap\CoreLibrary\bin\Debug\CoreLibrary.Common.dll
+F:\Github\PracticeCodeExamples\DependancyInjection\StructureMap\CoreLibrary\bin\Debug\CoreLibrary.DAL.dll
+F:\Github\PracticeCodeExamples\DependancyInjection\StructureMap\CoreLibrary\bin\Debug\StructureMap.dll
+F:\Github\PracticeCodeExamples\DependancyInjection\StructureMap\CoreLibrary\bin\Debug\StructureMap.Net4.dll
+F:\Github\PracticeCodeExamples\DependancyInjection\StructureMap\CoreLibrary\bin\Debug\CoreLibrary.Common.pdb
+F:\Github\PracticeCodeExamples\DependancyInjection\StructureMap\CoreLibrary\bin\Debug\CoreLibrary.DAL.pdb
+F:\Github\PracticeCodeExamples\DependancyInjection\StructureMap\CoreLibrary\bin\Debug\StructureMap.pdb
+F:\Github\PracticeCodeExamples\DependancyInjection\StructureMap\CoreLibrary\bin\Debug\StructureMap.xml
+F:\Github\PracticeCodeExamples\DependancyInjection\StructureMap\CoreLibrary\bin\Debug\StructureMap.Net4.pdb
+F:\Github\PracticeCodeExamples\DependancyInjection\StructureMap\CoreLibrary\obj\Debug\CoreLibrary.csprojResolveAssemblyReference.cache
+F:\Github\PracticeCodeExamples\DependancyInjection\StructureMap\CoreLibrary\obj\Debug\CoreLibrary.dll
+F:\Github\PracticeCodeExamples\DependancyInjection\StructureMap\CoreLibrary\obj\Debug\CoreLibrary.pdb
